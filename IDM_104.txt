@@ -2,12 +2,11 @@ employeeId,firstName,lastName
 //22121,Haribabu,Nallamalla
 //22125,Harikrisnha,Pavuluri
 //22126,Naveen,Dharavath
-//22128,Shaik,Shahid
+
 //22140,TejaPhandira,Jannu
 //22149,Narendra,Nagarikanti
 //22150,PradeepKumar,Pattapuraju
 //22154,NaveenKumar,Palavari
-//22169,Meghana,Chowdarapu
 //22170,Mounika,Gollapelli
 22177,ShakirHassan,Shaikreddicharla
 //22195,LakshmiDurga,Relli
@@ -18,6 +17,5 @@ employeeId,firstName,lastName
 //22260,Vishnu,Vidyadharan
 //22270,Srikanth,Agurla
 //22271,Sreeja,Gundeti
-//22272,Prathyusha,Bandi
+22272,Prathyusha,Bandi
 21047,ZakirHussain,ShaikReddicharla
-20228,rani,kothakonda
